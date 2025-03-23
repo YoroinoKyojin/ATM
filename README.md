@@ -20,9 +20,3 @@ to run this program you have to enter your first name, last name, and email addr
 - Step 4: Push the updated files from your created branch.
 - Step 5: Create a Pull Request (PR). 
 
-## Contributors
-Thanks to everyone for all your contributions.
-
-<a href="https://github.com/soravkumarsharma/ATM-Project-for-Beginners/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=soravkumarsharma/ATM-Project-for-Beginners" />
-</a>
